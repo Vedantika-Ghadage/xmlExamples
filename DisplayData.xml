@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <cd>
+    <title>Everyday Italian</title>
+    <author>J K. Rowling</author>
+    <price>29.99</price>
+  </cd>
+  <cd>
+    <title>XQuery Kick Start</title>
+    <author>James McGovern</author>
+    <price>49.99</price>
+  </cd>
+  <cd>
+    <title>Learning XML</title>
+    <author>Erik T. Ray</author>
+    <price>8.90</price>
+  </cd>
+  <cd>
+   <title>Learning XML</title>
+    <author>Gambardella</author>
+    <price>39.95</price>
+  </cd>
+  <cd>
+   <title>Everyday Italian</title>
+    <author>Matthew </author>
+    <price>9.00</price>
+  </cd>
+  <cd>
+    <title>Everyday Italian</title>
+    <author>Matthew</author>
+    <price>10.90</price>
+  </cd>
+  <cd>
+  <title>java</title>
+    <author>Nageshwarao</author>
+    <price>10.90</price>
+  </cd>
+  <cd>
+  <title>C</title>
+    <author>Ajay Mittal</author>
+    <price>100.90</price>
+  </cd>
+</catalog>
